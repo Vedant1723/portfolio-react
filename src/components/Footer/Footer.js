@@ -49,10 +49,7 @@ const Footer = () => {
                 aria-hidden="true"
                 style={{ color: "red" }}
               ></i>{" "}
-              by{" "}
-              <a href="https://colorlib.com/" target="_blank">
-                Vedant Pruthi
-              </a>
+              by <a>Vedant Pruthi</a>
             </p>
           </div>
         </div>
