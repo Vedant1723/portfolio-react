@@ -155,7 +155,7 @@ const Resume = () => {
                       <div class="desc">
                         <h4>
                           Bachelor Degree in Computer Applications
-                          <span> - Harvard University</span>{" "}
+                          <span> - Chitkara University</span>{" "}
                         </h4>
                         <p class="location">Chandigarh - India</p>
                       </div>
